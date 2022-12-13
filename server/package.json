@@ -12,7 +12,7 @@
         "@babel/plugin-proposal-class-properties": "^7.4.4",
         "@babel/preset-env": "^7.4.4",
         "@babel/register": "^7.4.4",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "ignore-styles": "^5.0.1",
         "nodemon": "^1.19.0",
         "querymen": "^2.1.3",
